@@ -4,7 +4,7 @@ Data Science & Engineering student based in Guadalajara, Mexico. 🇲🇽
 
 I enjoy building clean data pipelines, applying machine learning, and turning data into insights people can actually use.
 
-I’m especially interested in **impact-driven projects**, where data connects with real decisions — from sports and mobility to geospatial and public data.
+I’m especially interested in **impact-driven projects**, where data connects with real decisions from sports and mobility to geospatial and public data.
 
 ---
 
