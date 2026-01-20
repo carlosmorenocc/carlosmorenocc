@@ -1,6 +1,7 @@
 # Hi! I'm Carlos Moreno 👋  
 
 Data Science & Engineering student based in Guadalajara, Mexico. 🇲🇽 
+
 I enjoy building clean data pipelines, applying machine learning, and turning data into insights people can actually use.
 
 I’m especially interested in **impact-driven projects**, where data connects with real decisions — from sports and mobility to geospatial and public data.
@@ -10,7 +11,7 @@ I’m especially interested in **impact-driven projects**, where data connects w
 ## 👨‍💻 About Me
 
 - 🎓 B.Sc. in Data Science Engineering (8th semester) at ITESO
-- 📤 [![Hewlett Packard Enterprise](https://img.shields.io/badge/Hewlett_Packard_Enterprise-0096D6?style=flat&logo=hewlett-packard-enterprise&logoColor=white)](https://www.hpe.com)
+- 📤 Data Science Intern at [![Hewlett Packard Enterprise](https://img.shields.io/badge/Hewlett_Packard_Enterprise-0096D6?style=flat&logo=hewlett-packard-enterprise&logoColor=white)](https://www.hpe.com)
 - 📉 Volunteer as member of the Data Science & Engineering Student Society (2025–2026)
 - 🌎 Native Spanish speaker, advanced English
 
