@@ -8,7 +8,7 @@
 
 ---
 
-## ¿Por qué es importante? (Por qué deberías importarte)
+## ¿Por qué es importante? (Por qué debería importarte)
 Las redes sociales funcionan como un **sensor social en tiempo real**.  
 Millones de personas expresan opiniones, emociones y necesidades todos los días.
 
